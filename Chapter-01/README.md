@@ -1,6 +1,7 @@
 # Install Grafana
 
-Hardware Recommendations, Supported OS/Databases/Browsers details are officially documeneted by Grafana here: https://grafana.com/docs/grafana/latest/setup-grafana/installation/
+## Objectives 
+This chapter aims to give a basic introduction to Data Visualization with Grafana. We will touch upon details of Grafana installation requirements on different operating systems, what makes Grafana appealing as a monitoring tool and how to connect to Grafana from a local browser.
 
 ## Install on Debian or Ubuntu
 Link to Official Documentation of Grafana: https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
@@ -20,3 +21,7 @@ Link to Official Documentation of Grafana: https://grafana.com/docs/grafana/late
 ## Install on MacOS
 Link to Official Documentation of Grafana: https://grafana.com/docs/grafana/latest/setup-grafana/installation/mac/
 
+## Docker-compose commands
+i) Spin Up Grafana in daemon mode: `docker-compose up -d`
+
+ii) Spin Down Grafana: `docker-compose down`
