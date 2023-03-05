@@ -1,12 +1,12 @@
-# Install Grafana
+# Introduction to Data Visualization with Grafana
 
 ## Objectives 
 This chapter aims to give a basic introduction to Data Visualization with Grafana. We will touch upon details of Grafana installation requirements on different operating systems, what makes Grafana appealing as a monitoring tool and how to connect to Grafana from a local browser.
 
-## Install on Debian or Ubuntu
+## Install Grafana on Debian or Ubuntu
 Link to Official Documentation of Grafana: https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
 
-## Install on RPM-Based Linux
+## Install Grafana on RPM-Based Linux
 Link to Official Documentation of Grafana: https://grafana.com/docs/grafana/latest/setup-grafana/installation/rpm/
 
 ## Run Grafana Docker Image
