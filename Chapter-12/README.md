@@ -1,4 +1,4 @@
-# Managing Authorization and Authentication for Users and Teams
+# Managing Authorization and Authentication
 
 ## Install on Debian or Ubuntu
 Link to Official Documentation of Grafana: https://grafana.com/docs/grafana/latest/setup-grafana/installation/debian/
