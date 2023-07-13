@@ -1,6 +1,7 @@
 # End-to-End Observability with Grafana
 
-This is the code repository for End-to-End Observability with Grafana, published by BPB.
+This is the repository for [End-to-End Observability with Grafana
+](https://bpbonline.com/products/end-to-end-observability-with-grafana?variant=42817269399752),published by BPB Publications. 
 
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZzIBb33z9UMrJORrym5Ksz99vPlWGVLGyQ&usqp=CAU"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZzIBb33z9UMrJORrym5Ksz99vPlWGVLGyQ&usqp=CAU" alt="Learn Grafana 7.0" height="256px" align="right"></a>
 
