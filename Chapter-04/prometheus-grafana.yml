@@ -1,0 +1,16 @@
+scrape_configs: 
+# `job=` label is embedded as job name to timeseries fetched from this config. 
+- job_name: 'prometheus' 
+
+# For every 5 seconds, fetch targets and override the default set at global level
+scrape_interval: 5s 
+
+static_configs: 
+- targets: ['localhost:9090'] 
+- job_name: 'grafana' 
+
+# For every 5 seconds, fetch targets and override the default set at global level 
+scrape_interval: 5s 
+
+static_configs: 
+- targets: ['grafana:3000']
